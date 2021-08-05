@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+}
+.bg-orange{
+    background-color: #ff9213;
+}
+.btn-orange-add{
+    background-color: #ff9213;
+    border-radius: 20px;
+    color: #fff
+    ;
+}
+.text-orange{
+    background-color: #ff9213;
+}

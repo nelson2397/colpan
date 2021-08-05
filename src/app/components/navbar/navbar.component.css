@@ -1,0 +1,12 @@
+.logo-colpan{
+    background-image: url('src/assets/logo-navbar/logo_colpan.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 4rem;
+    width: 4rem;
+    border-radius: 55px;
+}
+
+.nav-link{
+    font-weight: bold;
+}

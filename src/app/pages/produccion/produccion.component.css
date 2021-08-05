@@ -1,0 +1,51 @@
+.border-right{
+    border-right: 1px solid lightgray;
+}
+.puntero{
+    cursor: pointer;
+}
+.bg-grisclaro{
+    background-color: lightgray;
+}
+.bg-verde{
+    background-color: #32b030 !important;
+}
+.bajar-procesos{
+    margin-top: 1%;
+}
+.p-mb-1{
+    margin-bottom: 1%;
+}
+.size-text-25{
+    font-size: 25px;
+}
+.overflow{
+    overflow-y: visible;
+    overflow-x: hidden;
+    height: 400px;
+    min-height: 200px;
+    max-height: 400px;
+}
+@media (max-width: 767px){
+    .overflow{
+        height: 200px;
+        min-height: 100px;
+        max-height: 200px;
+    }
+
+}
+@media (max-width: 460px){
+    .size-text-25{
+        font-size: 20px;
+    }
+}
+@media (max-width: 375px){
+    .size-text-25{
+        font-size: 18px;
+    }
+}
+@media (max-width: 341px){
+    .size-text-25{
+        font-size: 14px;
+    }
+}

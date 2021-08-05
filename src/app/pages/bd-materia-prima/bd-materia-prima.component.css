@@ -1,0 +1,22 @@
+.row-btn-end{
+    justify-content: flex-end;
+}
+.col-btn-center{
+    display: flex;
+    justify-content: center;
+}
+@media (max-width: 1199px){
+    .buscador-width{
+        width: 40% !important;
+    }
+}
+@media (max-width: 973px){
+    .buscador-width{
+        width: 50% !important;
+    }
+}
+@media (max-width: 767px){
+    .buscador-width{
+        width: 100% !important;
+    }
+}
